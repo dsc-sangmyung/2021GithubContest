@@ -24,107 +24,17 @@
         1등
       </td>
       <td align="center">
-        <a href="https://github.com/sang-w0o" >
-          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/48438083?v=4">
+        <a href="https://github.com/j1mmyson" >
+          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/32802673?v=4">
         </a>
       </td>
       <td align="center">
-      <a href="https://github.com/sang-w0o" >
-          sang-w0o
+      <a href="https://github.com/j1mmyson" >
+          j1mmyson
       </a>
       </td>
       <td align="center">
-        545
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        2등
-      </td>
-      <td align="center">
-        <a href="https://github.com/gomjellie" >
-          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/13645032?v=4">
-        </a>
-      </td>
-      <td align="center">
-      <a href="https://github.com/gomjellie" >
-          gomjellie
-      </a>
-      </td>
-      <td align="center">
-        128
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        3등
-      </td>
-      <td align="center">
-        <a href="https://github.com/enif-lee" >
-          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/9916002?v=4">
-        </a>
-      </td>
-      <td align="center">
-      <a href="https://github.com/enif-lee" >
-          enif-lee
-      </a>
-      </td>
-      <td align="center">
-        123
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        4등
-      </td>
-      <td align="center">
-        <a href="https://github.com/kanghyun98" >
-          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/70627979?v=4">
-        </a>
-      </td>
-      <td align="center">
-      <a href="https://github.com/kanghyun98" >
-          kanghyun98
-      </a>
-      </td>
-      <td align="center">
-        118
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        5등
-      </td>
-      <td align="center">
-        <a href="https://github.com/yoo-jimin127" >
-          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/66112716?v=4">
-        </a>
-      </td>
-      <td align="center">
-      <a href="https://github.com/yoo-jimin127" >
-          yoo-jimin127
-      </a>
-      </td>
-      <td align="center">
-        86
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        6등
-      </td>
-      <td align="center">
-        <a href="https://github.com/ika9810" >
-          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/44824398?v=4">
-        </a>
-      </td>
-      <td align="center">
-      <a href="https://github.com/ika9810" >
-          ika9810
-      </a>
-      </td>
-      <td align="center">
-        34
+        61
       </td>
     </tr>
   </tbody>
@@ -155,18 +65,18 @@
         1등
       </td>
       <td align="center">
-        <a href="https://github.com/ika9810" >
-          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/44824398?v=4">
+        <a href="https://github.com/j1mmyson" >
+          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/32802673?v=4">
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/ika9810/Honey-Web-Templates" >
-          ika9810/Honey-Web-Templates
+        <a href="https://github.com/j1mmyson/Fiber_Gorm_" >
+          j1mmyson/Fiber_Gorm_
         </a>
       </td>
       </td>
       <td align="center">
-        3
+        0
       </td>
     </tr>
     <tr>
@@ -174,18 +84,18 @@
         2등
       </td>
       <td align="center">
-        <a href="https://github.com/yoo-jimin127" >
-          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/66112716?v=4">
+        <a href="https://github.com/j1mmyson" >
+          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/32802673?v=4">
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/yoo-jimin127/TODO_app_react" >
-          yoo-jimin127/TODO_app_react
+        <a href="https://github.com/j1mmyson/j1mmyson.github.io" >
+          j1mmyson/j1mmyson.github.io
         </a>
       </td>
       </td>
       <td align="center">
-        2
+        0
       </td>
     </tr>
     <tr>
@@ -193,18 +103,18 @@
         3등
       </td>
       <td align="center">
-        <a href="https://github.com/gomjellie" >
-          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/13645032?v=4">
+        <a href="https://github.com/j1mmyson" >
+          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/32802673?v=4">
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/gomjellie/Goarding" >
-          gomjellie/Goarding
+        <a href="https://github.com/j1mmyson/JinSang_Backend" >
+          j1mmyson/JinSang_Backend
         </a>
       </td>
       </td>
       <td align="center">
-        1
+        0
       </td>
     </tr>
     <tr>
@@ -212,56 +122,18 @@
         4등
       </td>
       <td align="center">
-        <a href="https://github.com/ywoo121" >
-          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/71367047?v=4">
+        <a href="https://github.com/j1mmyson" >
+          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/32802673?v=4">
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/ywoo121/swift_memo_app" >
-          ywoo121/swift_memo_app
-        </a>
-      </td>
-      </td>
-      <td align="center">
-        1
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        5등
-      </td>
-      <td align="center">
-        <a href="https://github.com/yoo-jimin127" >
-          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/66112716?v=4">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/yoo-jimin127/2021_2_APP_programming" >
-          yoo-jimin127/2021_2_APP_programming
+        <a href="https://github.com/j1mmyson/Study-Reminder" >
+          j1mmyson/Study-Reminder
         </a>
       </td>
       </td>
       <td align="center">
-        1
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        6등
-      </td>
-      <td align="center">
-        <a href="https://github.com/Think-JIn99" >
-          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/79181909?v=4">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/Think-JIn99/GDSC_AI-ML" >
-          Think-JIn99/GDSC_AI-ML
-        </a>
-      </td>
-      </td>
-      <td align="center">
-        1
+        0
       </td>
     </tr>
   </tbody>
