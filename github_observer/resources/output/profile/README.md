@@ -70,7 +70,7 @@
       </a>
       </td>
       <td align="center">
-        61
+        56
       </td>
     </tr>
     <tr>
@@ -180,25 +180,6 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/j1mmyson/JinSang_Backend" >
-          j1mmyson/JinSang_Backend
-        </a>
-      </td>
-      </td>
-      <td align="center">
-        0
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        4등
-      </td>
-      <td align="center">
-        <a href="https://github.com/j1mmyson" >
-          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/32802673?v=4">
-        </a>
-      </td>
-      <td align="center">
         <a href="https://github.com/j1mmyson/Study-Reminder" >
           j1mmyson/Study-Reminder
         </a>
@@ -210,7 +191,7 @@
     </tr>
     <tr>
       <td align="center">
-        5등
+        4등
       </td>
       <td align="center">
         <a href="https://github.com/JJinuk" >
@@ -229,7 +210,7 @@
     </tr>
     <tr>
       <td align="center">
-        6등
+        5등
       </td>
       <td align="center">
         <a href="https://github.com/leesoyuun" >
@@ -239,6 +220,25 @@
       <td align="center">
         <a href="https://github.com/leesoyuun/Programmers" >
           leesoyuun/Programmers
+        </a>
+      </td>
+      </td>
+      <td align="center">
+        0
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        6등
+      </td>
+      <td align="center">
+        <a href="https://github.com/leesoyuun" >
+          <img width="40" alt="image" src="https://avatars.githubusercontent.com/u/51051548?v=4">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/leesoyuun/project" >
+          leesoyuun/project
         </a>
       </td>
       </td>
