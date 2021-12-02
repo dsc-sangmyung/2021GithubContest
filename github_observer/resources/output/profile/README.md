@@ -142,8 +142,8 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/j1mmyson/Fiber_Gorm_" >
-          j1mmyson/Fiber_Gorm_
+        <a href="https://github.com/j1mmyson/j1mmyson.github.io" >
+          j1mmyson/j1mmyson.github.io
         </a>
       </td>
       </td>
@@ -161,8 +161,8 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/j1mmyson/j1mmyson.github.io" >
-          j1mmyson/j1mmyson.github.io
+        <a href="https://github.com/j1mmyson/Fiber_Gorm_" >
+          j1mmyson/Fiber_Gorm_
         </a>
       </td>
       </td>
